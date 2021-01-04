@@ -4,9 +4,15 @@
   display: flex;
   align-items: center;
   border-bottom: 0px;
-  background: $white-color;
+  background:$fourth-color;
+  background-image: linear-gradient(
+    155deg,
+    $third-color 35%,
+    $dark-grey 75%
+  );
+  // background-image: url('https://cdn.wallpapersafari.com/4/37/OiSFzH.jpg');
   font-weight: 400;
-  color: $dark-blue-text;
+  color:$white-color;
   padding: 0rem 5.6rem;
   margin-bottom: 0;
   top: 0;

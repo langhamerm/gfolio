@@ -1,0 +1,90 @@
+.primaryBG {
+    background-color: #F4F4F4;
+
+    padding: 20px;
+
+}
+.divBG {
+    background-color: #FFFFFF;
+    text-align: center;
+    font-family: Sitka Banner;
+}
+.title {
+    font-family: Sitka Banner;
+    color: #00275E;
+    font-weight: bolder;
+    text-shadow: 5px 5px 10px #477690;
+}
+.formBG {
+    /* background-color: #477690; */
+    /* background-image: linear-gradient(135deg, #791616e5 0%, #0e6188de 100%); */
+
+    margin: 20px;
+    text-align: left;
+    border-radius: 0.25rem;
+}
+.labels {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.xorders {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #00275E;
+    box-shadow: 5px 5px 10px #00275E;
+}
+
+.centerBtn {
+    text-align: center;
+    padding-bottom: 10px;
+    /* background-color: #00275E; */
+    /* background-image: linear-gradient(90deg, #0e6188de 45%, #791616e5 55%); */
+
+    padding-top: 10px;
+}
+.theBtn {
+    /* background-color: #4B82B8; */
+    border-style: solid;
+    border-width: 2px;
+    border-color: #080808;
+    font-family: Sitka Display;
+    font-weight: bold;
+    font-size: 30px;
+    color: #F4F4F4;
+ 
+}
+
+
+/* ----------Modal----------- */
+.modalNameDiv {
+    background-color: #00275ee0;
+    text-align: center;
+    padding: 0.5rem;
+    width: 119% !important;
+    z-index: 1;
+    margin-left: -9.5%;
+    margin-right: 0;
+}
+.modalName {
+    font-family: Sitka Display;
+    color: #CDBB61;
+    font-size: 70px;
+}
+.proudly {
+    text-align: center;
+    padding-top: 0.5rem;
+    font-size: 17px;
+}
+.logo {
+    padding-bottom: 0 !important;
+}
+.banyan {
+    background-image: none !important;
+    text-decoration: none !important;
+    color: #F4F4F4 !important;
+    text-shadow: none !important;
+
+    line-height: 75% !important;
+}

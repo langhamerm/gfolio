@@ -16,6 +16,7 @@ export default () => {
         <html lang={lang || 'en'} />
         <meta name="description" content={description || 'Gatsby Simplefolio'} />
       </Helmet>
+
       <App />
     </>
   );
