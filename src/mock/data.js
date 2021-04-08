@@ -23,7 +23,7 @@ export const aboutData = {
     'Since then I have worked at Persevere, where I have been teaching justice-involved individuals how to code and prepare for work as developers.',
   paragraphThree:
     'I have worked with our partner company at Banyan Labs as well, who employ our students to work on real paid projects. My role here invovles active participation in client projects, mentoring our new developers, and acting as lead developer at times.',
-  resume: 'https://my.indeed.com/p/markl-puvjow5/preview', // if no resume, the button will not show up
+  resume: '../images/Langhamer-Resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
